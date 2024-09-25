@@ -15,8 +15,8 @@ sys.path.append('C:/Users/ronal/python-blockchain/backend/blockchain/wallet')
 from block import Block
 from transaction import Transaction   
 pnconfig= PNConfiguration()
-pnconfig.subscribe_key= 'sub-c-a0baf7a4-68e0-11ea-95b7-3ec3e5ef3302'
-pnconfig.publish_key= 'pub-c-3a48ced5-671c-4c2d-a65c-bd0562663fe8'
+pnconfig.subscribe_key= 'xxxxxxxxx'
+pnconfig.publish_key= 'xxxxxxxxxxx'
 
 
 
